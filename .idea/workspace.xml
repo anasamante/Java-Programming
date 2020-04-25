@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e3a54a52-fa22-49b4-9c67-926f044d3fe7" name="Default Changelist" comment="" />
+    <list default="true" id="e3a54a52-fa22-49b4-9c67-926f044d3fe7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DecisionStructuresAndOperators3/ChangeForADollar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DecisionStructuresAndOperators3/ChangeForADollar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DecisionStructuresAndOperators3/GradeMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DecisionStructuresAndOperators3/GradeMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DecisionStructuresAndOperators3/LoanQualifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DecisionStructuresAndOperators3/LoanQualifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DecisionStructuresAndOperators3/LogicalOperatorLoanQualifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DecisionStructuresAndOperators3/LogicalOperatorLoanQualifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DecisionStructuresAndOperators3/QuotaCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DecisionStructuresAndOperators3/QuotaCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DecisionStructuresAndOperators3/SalaryCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DecisionStructuresAndOperators3/SalaryCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DecisionStructuresAndOperators3/TestResults.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DecisionStructuresAndOperators3/TestResults.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaFundamentals2/GrossPayCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaFundamentals2/GrossPayCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaFundamentals2/MadLibs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaFundamentals2/MadLibs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Loops4/AddNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loops4/AddNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Loops4/AverageTestScore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loops4/AverageTestScore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Loops4/Cashier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loops4/Cashier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Loops4/GrossPayInputValidation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loops4/GrossPayInputValidation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Loops4/LetterSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loops4/LetterSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Loops4/RollTheDie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loops4/RollTheDie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MethodsAndScope5/Greetings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MethodsAndScope5/Greetings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MethodsAndScope5/InstantCreditCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MethodsAndScope5/InstantCreditCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MethodsAndScope5/PhoneBillCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MethodsAndScope5/PhoneBillCalculator.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,11 +34,42 @@
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
   </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/JavaFundamentals2/MadLibs.java" />
+        <option value="$PROJECT_DIR$/src/JavaFundamentals2/GrossPayCalculator.java" />
+        <option value="$PROJECT_DIR$/src/DecisionStructuresAndOperators3/GradeMessage.java" />
+        <option value="$PROJECT_DIR$/src/DecisionStructuresAndOperators3/LoanQualifier.java" />
+        <option value="$PROJECT_DIR$/src/DecisionStructuresAndOperators3/LogicalOperatorLoanQualifier.java" />
+        <option value="$PROJECT_DIR$/src/DecisionStructuresAndOperators3/QuotaCalculator.java" />
+        <option value="$PROJECT_DIR$/src/DecisionStructuresAndOperators3/SalaryCalculator.java" />
+        <option value="$PROJECT_DIR$/src/DecisionStructuresAndOperators3/TestResults.java" />
+        <option value="$PROJECT_DIR$/src/DecisionStructuresAndOperators3/ChangeForADollar.java" />
+        <option value="$PROJECT_DIR$/src/Loops4/AddNumbers.java" />
+        <option value="$PROJECT_DIR$/src/Loops4/AverageTestScore.java" />
+        <option value="$PROJECT_DIR$/src/Loops4/Cashier.java" />
+        <option value="$PROJECT_DIR$/src/Loops4/GrossPayInputValidation.java" />
+        <option value="$PROJECT_DIR$/src/Loops4/LetterSearch.java" />
+        <option value="$PROJECT_DIR$/src/Loops4/RollTheDie.java" />
+        <option value="$PROJECT_DIR$/src/MethodsAndScope5/Greetings.java" />
+        <option value="$PROJECT_DIR$/src/MethodsAndScope5/InstantCreditCheck.java" />
+        <option value="$PROJECT_DIR$/src/MethodsAndScope5/PhoneBillCalculator.java" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -42,6 +94,9 @@
       </pane>
       <pane id="PackagesPane" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -97,6 +152,138 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/JavaFundamentals2/MadLibs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="33" lean-forward="true" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaFundamentals2/GrossPayCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DecisionStructuresAndOperators3/GradeMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DecisionStructuresAndOperators3/LoanQualifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DecisionStructuresAndOperators3/LogicalOperatorLoanQualifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="38" selection-start-column="38" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DecisionStructuresAndOperators3/QuotaCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DecisionStructuresAndOperators3/TestResults.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DecisionStructuresAndOperators3/SalaryCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DecisionStructuresAndOperators3/ChangeForADollar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Loops4/AverageTestScore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Loops4/AddNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Loops4/Cashier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Loops4/GrossPayInputValidation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Loops4/LetterSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Loops4/RollTheDie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="2" lean-forward="true" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MethodsAndScope5/Greetings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#497#498#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MethodsAndScope5/InstantCreditCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MethodsAndScope5/PhoneBillCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>

@@ -1,9 +1,9 @@
-package chapter2;//package declaration, to see where the class is
+package JavaFundamentals2;//package declaration, to see where the class is
 
 import java.util.Scanner;
 
 public class GrossPayCalculator {
-    //the curley braces are block of code, the orange words are reserved words, they mean something for the program, we cannot use it
+    //the curled braces are block of code, the orange words are reserved words, they mean something for the program, we cannot use it
 
     public static void main(String arg[]){
 

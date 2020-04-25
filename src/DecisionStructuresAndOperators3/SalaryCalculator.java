@@ -1,6 +1,12 @@
-package chapter3;
+package DecisionStructuresAndOperators3;
 
 import java.util.Scanner;
+
+/*
+* IF Statement.
+* All salespeople get a payment of $1000 a week.
+* Salespeople who exceed 10 sales get an additional bonus of $250.
+*/
 
 public class SalaryCalculator {
 

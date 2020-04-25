@@ -1,4 +1,5 @@
-import javax.sound.midi.Soundbank;
+package Loops4;
+
 import java.util.Scanner;
 
 public class LetterSearch {

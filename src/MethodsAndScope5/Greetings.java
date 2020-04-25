@@ -1,3 +1,5 @@
+package MethodsAndScope5;
+
 import java.util.Scanner;
 
 public class Greetings {
@@ -6,7 +8,6 @@ public class Greetings {
          * OUR FIRST METHOD
          * Write a method that asks a user for their name, then greets them by name.
          */
-
 
         System.out.println("What's your name?");
         Scanner scanner = new Scanner(System.in);

@@ -1,6 +1,9 @@
-package IndependentExercise;
+package JavaFundamentals2;
 
 import java.util.Scanner;
+
+    /* Create a program that asks a user for a season of the year, then a whole number, then an adjective.
+    And use the input to complete the sentence below. Output the result. Good luck!*/
 
 public class MadLibs {
 

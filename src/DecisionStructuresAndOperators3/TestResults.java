@@ -1,6 +1,11 @@
-package chapter3;
+package DecisionStructuresAndOperators3;
 
 import java.util.Scanner;
+
+/*
+ * IF-ELSE-IF
+ * Display the letter grade for a student based on their test score.
+ */
 
 public class TestResults {
 

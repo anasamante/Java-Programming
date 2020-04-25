@@ -1,11 +1,17 @@
+package MethodsAndScope5;
+
 import java.util.Scanner;
 
 public class PhoneBillCalculator {
-/*    allow the user to input the plan fee and the number of overage minutes.
-      charge 25 cents for every over minute
-      add 15% tax on the subtotal.
-      Please print this as an itemized bill.
- */
+    /**
+     * Calculate the final total of someone's cell phone bill
+     * Allow the user to input the plan fee and the number of overage minutes.
+     * Charge 25 cents for every minute that they've gone over, and then a 15% tax on the subtotal.
+     * Create separate methods to calculate the tax, to calculate the overage fees,
+     * and to calculate and print the final total.
+     * Please print this as an itemized bill.
+     */
+
     static double overMinuteCost = 0.25;
     static double tax = 0.15;
     static Scanner scanner = new Scanner(System.in);

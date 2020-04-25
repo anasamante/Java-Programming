@@ -1,9 +1,12 @@
+package Loops4;
+
+import java.util.Scanner;
+
 /*
  * NESTED LOOPS:
  * Find the average of each student's test scores
  */
 
-import java.util.Scanner;
 
 public class AverageTestScore {
     public static void main(String[] args) {
