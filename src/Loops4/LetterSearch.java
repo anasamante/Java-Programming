@@ -17,7 +17,7 @@ public class LetterSearch {
 
         boolean letterFound = false;
 
-        // search text for A;
+        // searchDuplicates text for A;
 
         for (int i = 0; i<text.length(); i++){
             char currentLetter = text.charAt(i);
