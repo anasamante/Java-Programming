@@ -2,38 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8aa05d24-8dae-408e-88a4-0d350743e6e6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCourseTestAutomationU/Arrays7/DayOfTheWeek.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCourseTestAutomationU/Arrays7/Grades.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCourseTestAutomationU/Arrays7/LotteryTicket.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCourseTestAutomationU/DecisionStructuresAndOperators3/ChangeForADollar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCourseTestAutomationU/DecisionStructuresAndOperators3/GradeMessage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCourseTestAutomationU/DecisionStructuresAndOperators3/LoanQualifier.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCourseTestAutomationU/DecisionStructuresAndOperators3/LogicalOperatorLoanQualifier.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCourseTestAutomationU/DecisionStructuresAndOperators3/QuotaCalculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCourseTestAutomationU/DecisionStructuresAndOperators3/SalaryCalculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCourseTestAutomationU/DecisionStructuresAndOperators3/TestResults.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCourseTestAutomationU/JavaFundamentals2/GrossPayCalculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCourseTestAutomationU/JavaFundamentals2/MadLibs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCourseTestAutomationU/Loops4/AddNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCourseTestAutomationU/Loops4/AverageTestScore.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCourseTestAutomationU/Loops4/Cashier.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCourseTestAutomationU/Loops4/GrossPayInputValidation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCourseTestAutomationU/Loops4/LetterSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCourseTestAutomationU/Loops4/RollTheDie.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCourseTestAutomationU/META-INF/JavaCourseTestAutomationU.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCourseTestAutomationU/MethodsAndScope5/Greetings.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCourseTestAutomationU/MethodsAndScope5/InstantCreditCheck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCourseTestAutomationU/MethodsAndScope5/PhoneBillCalculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCourseTestAutomationU/ObjectOrientedProgramming6/HomeAreaCalculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCourseTestAutomationU/ObjectOrientedProgramming6/HomeCalculatorRedo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCourseTestAutomationU/ObjectOrientedProgramming6/Month.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCourseTestAutomationU/ObjectOrientedProgramming6/MonthConverter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCourseTestAutomationU/ObjectOrientedProgramming6/PhoneBill.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCourseTestAutomationU/ObjectOrientedProgramming6/PhoneBillCalculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCourseTestAutomationU/ObjectOrientedProgramming6/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCourseTestAutomationU/datatypesandstrings_8/TextProcessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCourseTestAutomationU/datatypesandstrings_8/TextProcessor.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/datatypesandstrings_8/TextProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datatypesandstrings_8/TextProcessor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -104,22 +74,22 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1588719664964">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1588723659192">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588719664964" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1588719664964">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588723659192" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1588723659192">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588719664964" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1588719664964">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588723659192" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1588723659192">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588719664964" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1588719664964">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588723659192" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1588723659192">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588719664964" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588723659192" />
     <state x="277" y="55" key="SettingsEditor" timestamp="1588718559364">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
