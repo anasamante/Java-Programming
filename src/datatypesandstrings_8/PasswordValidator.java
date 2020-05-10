@@ -1,5 +1,7 @@
 package datatypesandstrings_8;
 
+import java.util.Scanner;
+
 /*
 You'll need to verify the strength of a proposed password change.
 The password must be at least eight characters long,
@@ -9,74 +11,72 @@ not contain the username and
 not be the same as the old password.
  */
 
-import java.util.Scanner;
-
 public class PasswordValidator {
+
     private static Scanner scanner = new Scanner(System.in);
 
     private static final int PASSWORD_LENGTH = 8;
 
-    public static boolean length = false;
-    public static boolean uppercase = false;
-    public static boolean specialChar = false;
-    public static boolean containUser = false;
-    public static boolean samePass = false;
+    private String userName;
+    private String oldPass;
+
+    private static String newPass;
+    private static boolean isNewPassValid;
+
+    public PasswordValidator(String userName, String oldPass) {
+        this.userName = userName;
+        this.oldPass = oldPass;
+    }
 
     public static void main(String[] args) {
 
-        String userName = "Ana Amante";
-        String oldPass = "Testing1!";
-        String newPass = "kjggHH#Hu";
+        var validator = askUserAndPass();
 
-        validatePass(userName, oldPass, newPass);
-
-        printMessage();
+        do {
+            askNewPass();
+            validatePass(validator.userName, validator.oldPass, newPass);
+        } while (!isValid(isNewPassValid));
 
         scanner.close();
 
     }
 
-     public static void validatePass(String userName, String oldPass, String newPass){
-        if(newPass.length() >= PASSWORD_LENGTH){
-            length = true;
-        }
-        for (int i = 0; i <newPass.length(); i++) {
-            if(Character.isUpperCase(newPass.charAt(i))){
-                uppercase = true;
-            }
-            if (!(Character.isAlphabetic(newPass.charAt(i)) || Character.isDigit(newPass.charAt(i)) ||
-                    Character.isSpaceChar(newPass.charAt(i)))){
-                specialChar = true;
-            }
-        }
-        if (newPass.contains(userName)){
-            containUser = true;
-        }
-        if (oldPass.equalsIgnoreCase(newPass)) {
-            samePass = true;
-        }
+    public static PasswordValidator askUserAndPass() {
+        System.out.println("Please enter username: ");
+        String userName = scanner.nextLine();
 
+        System.out.println("Please enter old pass: ");
+        String oldPass = scanner.nextLine();
+
+        return new PasswordValidator(userName, oldPass);
     }
 
-    public static void printMessage(){
-        if (!length){
-            System.out.println("Invalid length");
-        }
-        else if (!uppercase){
-            System.out.println("No uppercase");
-        }
-        else if (!specialChar){
-            System.out.println("No special char");
-        }
-        else if (containUser){
-            System.out.println("The user name is in your password");
-        }
-        else if (samePass){
-            System.out.println("New password is the same as old one.");
-        }
-        else{
-            System.out.println("Valid Pass");
-        }
+    public static String askNewPass() {
+        System.out.println("Please enter new pass: ");
+        newPass = scanner.nextLine();
+        return newPass;
     }
 
+    public static boolean validatePass(String userName, String oldPass, String newPass) {
+        isNewPassValid = false;
+        if (newPass.length() < PASSWORD_LENGTH) {
+            System.out.println("The password must have at least 8 characters");
+        } else if (newPass.equals(newPass.toLowerCase())) {
+            System.out.println("The password must have at least one uppercase letter");
+        } else if (newPass.matches("[A-Za-z0-9 ]*")) {
+            System.out.println("The password must have at least one special character");
+        } else if (newPass.contains(userName)) {
+            System.out.println("The password can't have the username");
+        } else if (newPass.equalsIgnoreCase(oldPass)) {
+            System.out.println("The password can't be the same as the old one ");
+        } else isNewPassValid = true;
+        return isNewPassValid;
+    }
+
+    public static boolean isValid(boolean isValid) {
+        if (isValid) {
+            System.out.println("Correct Password");
+        }
+        return isValid;
+    }
 }
