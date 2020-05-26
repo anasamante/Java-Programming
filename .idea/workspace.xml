@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8aa05d24-8dae-408e-88a4-0d350743e6e6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/final_14/Coin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final_14/Player.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCourseTestAutomationU/exceptions_13/DividingByZero.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCourseTestAutomationU/exceptions_13/DividingByZero.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +37,33 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
-  <component name="RunManager" selected="Application.DividingByZero">
+  <component name="RunManager" selected="Application.CoinTossGame">
+    <configuration name="Coin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="final_14.Coin" />
+      <module name="JavaCourseTestAutomationU" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="final_14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CoinTossGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="final_14.CoinTossGame" />
+      <module name="JavaCourseTestAutomationU" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="final_14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DividingByZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exceptions_13.DividingByZero" />
       <module name="JavaCourseTestAutomationU" />
@@ -61,19 +90,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GradeBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections_12.GradeBook" />
-      <module name="JavaCourseTestAutomationU" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="collections_12.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="NumbersExceptionHandling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exceptions_13.NumbersExceptionHandling" />
       <module name="JavaCourseTestAutomationU" />
@@ -87,26 +103,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestResults" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections_12.TestResults" />
-      <module name="JavaCourseTestAutomationU" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="collections_12.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CoinTossGame" />
+        <item itemvalue="Application.Coin" />
         <item itemvalue="Application.DividingByZero" />
         <item itemvalue="Application.NumbersExceptionHandling" />
         <item itemvalue="Application.Exceptions" />
-        <item itemvalue="Application.GradeBook" />
-        <item itemvalue="Application.TestResults" />
       </list>
     </recent_temporary>
   </component>
@@ -141,46 +144,50 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="167" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1590194146746" />
-    <state x="719" y="213" key="#com.intellij.ide.util.MemberChooser" timestamp="1589976251862">
+    <state x="719" y="193" key="#com.intellij.ide.util.MemberChooser" timestamp="1590331425551">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="719" y="213" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1589976251862" />
-    <state x="1048" y="2" key="#xdebugger.evaluate" timestamp="1589841798850">
+    <state x="719" y="193" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1590331425551" />
+    <state x="499" y="159" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1590332459762">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="1048" y="2" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1589841798850" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1590243968046">
+    <state x="499" y="159" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.824@0.0.1536.824" timestamp="1590332459762" />
+    <state x="1048" y="2" key="#xdebugger.evaluate" timestamp="1590458555409">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590243968046" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1590243968046">
+    <state x="1048" y="2" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1590458555409" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1590518668983">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590243968046" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1590243968046">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590518668983" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1590518668983">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590243968046" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1590243968046">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590518668983" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1590518668983">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590243968046" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1590196914577">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590518668983" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1590518668983">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590196914577" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1590196914577">
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590518668983" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1590460514978">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1590196914577" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1590196914577">
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590460514978" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1590460514978">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1590196914577" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1590196914577">
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1590460514978" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1590460514978">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1590196914577" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1590460514978" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1590460514978">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1590460514978" />
     <state x="277" y="55" key="SettingsEditor" timestamp="1590240179506">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -193,6 +200,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="209" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1588622571049" />
+    <state x="475" y="31" key="refactoring.ChangeSignatureDialog" timestamp="1590460357947">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="475" y="31" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1590460357947" />
     <state x="425" y="187" key="run.anything.popup" timestamp="1588717733358">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -201,5 +212,31 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1589843154626" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/final_14/CoinTossGame.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/final_14/CoinTossGame.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/final_14/CoinTossGame.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/final_14/CoinTossGame.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
